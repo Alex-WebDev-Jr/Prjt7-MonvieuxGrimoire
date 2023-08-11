@@ -5,4 +5,4 @@ Implémenter un modèle logique de données conformément à la réglementation
 
 Mettre en œuvre des opérations CRUD de manière sécurisée
 
-Stocker des données de manière sécurisée
+Stocker des données de manière sécurisée.
